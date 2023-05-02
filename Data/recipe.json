@@ -1,0 +1,17 @@
+[
+  {
+    "id": "dhfkjhdgjk",
+    "recipe_id": 1,
+    "recepi_name": "Kung Pao Chicken - a spicy stir-fry dish made with chicken, peanuts, vegetables, and chili peppers.",
+    "coocking_method": "Stir-Frying - a high-heat cooking method where ingredients are quickly cooked in a hot wok with oil while being stirred constantly.",
+    "rating": 5,
+    "favourite": 300,
+    "ingredients": [
+      "Boneless, Skinless Chicken Breast",
+      "Roasted Peanuts",
+      "Dried Red Chili Peppers",
+      "Soy Sauce",
+      "Cornstarch"
+    ]
+  }
+]
