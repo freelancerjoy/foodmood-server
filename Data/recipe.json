@@ -2,16 +2,399 @@
   {
     "id": "dhfkjhdgjk",
     "recipe_id": 1,
-    "recepi_name": "Kung Pao Chicken - a spicy stir-fry dish made with chicken, peanuts, vegetables, and chili peppers.",
+    "recepe_name": "Kung Pao Chicken",
     "coocking_method": "Stir-Frying - a high-heat cooking method where ingredients are quickly cooked in a hot wok with oil while being stirred constantly.",
     "rating": 5,
     "favourite": 300,
+    "recipe_img": "https://amandascookin.com/wp-content/uploads/2022/01/Kung-Pao-Chicken-RC-SQ-768x768.jpg",
     "ingredients": [
       "Boneless, Skinless Chicken Breast",
       "Roasted Peanuts",
       "Dried Red Chili Peppers",
       "Soy Sauce",
       "Cornstarch"
+    ]
+  },
+  {
+    "id": "dhfkjshsfdgjk",
+    "recipe_id": 1,
+    "recepe_name": "Dumplings (Jiaozi)",
+    "coocking_method": "Mix ground pork, finely chopped Napa cabbage, minced garlic and ginger, soy sauce, and a little bit of water to make a filling.",
+    "rating": 4,
+    "favourite": 300,
+    "recipe_img": "https://kirbiecravings.com/wp-content/uploads/2020/01/jiaozi-dumplings-12.jpg",
+
+    "ingredients": [
+      "Ground Pork",
+      "Napa Cabbage",
+      "Garlic",
+      "Ginger",
+      "Soy Sauce"
+    ]
+  },
+  {
+    "id": "dhfkjhddgjdk",
+    "recipe_id": 2,
+    "recepe_name": "Ma Po Tofu",
+    "coocking_method": "Heat oil in a wok or frying pan over medium-high heat and add ground pork. Stir-fry until cooked through.",
+    "rating": 4.5,
+    "favourite": null,
+    "recipe_img": "https://amandascookin.com/wp-content/uploads/2022/01/Kung-Pao-Chicken-RC-SQ-768x768.jpg",
+    "ingredients": [
+      "Soft Tofu",
+      "Ground Pork",
+      "Sichuan Peppercorns",
+      "Chili Bean Paste",
+      "Garlic"
+    ]
+  },
+  {
+    "id": "dhfkjhsddgjdk",
+    "recipe_id": 1,
+    "recepe_name": "Fried Rice",
+    "coocking_method": "Heat oil in a wok or frying pan over high heat.  Add beaten eggs and stir-fry until scrambled. Add diced carrots and peas and stir-fry until tender.",
+    "rating": 4.5,
+    "favourite": null,
+    "recipe_img": "https://successrice.com/wp-content/uploads/2019/03/Quick-and-Easy-Fried-Rice-1536x864.jpg.webp",
+    "ingredients": ["Cooked Rice", "Eggs", "Carrots", "Peas", "Soy Sauce"]
+  },
+  {
+    "id": "dhfkjhsfdgjk",
+    "recipe_id": 2,
+    "recepe_name": "Dumplings (Jiaozi)",
+    "coocking_method": "Mix ground pork, finely chopped Napa cabbage, minced garlic and ginger, soy sauce, and a little bit of water to make a filling.",
+    "rating": 4,
+    "favourite": 300,
+    "recipe_img": "https://kirbiecravings.com/wp-content/uploads/2020/01/jiaozi-dumplings-12.jpg",
+
+    "ingredients": [
+      "Ground Pork",
+      "Napa Cabbage",
+      "Garlic",
+      "Ginger",
+      "Soy Sauce"
+    ]
+  },
+  {
+    "id": "dhfkjhddgjdk",
+    "recipe_id": 2,
+    "recepe_name": "Ma Po Tofu",
+    "coocking_method": "Heat oil in a wok or frying pan over medium-high heat and add ground pork. Stir-fry until cooked through.",
+    "rating": 4.5,
+    "favourite": null,
+    "recipe_img": "https://amandascookin.com/wp-content/uploads/2022/01/Kung-Pao-Chicken-RC-SQ-768x768.jpg",
+    "ingredients": [
+      "Soft Tofu",
+      "Ground Pork",
+      "Sichuan Peppercorns",
+      "Chili Bean Paste",
+      "Garlic"
+    ]
+  },
+  {
+    "id": "dhfkjhsdfsdgjdk",
+    "recipe_id": 3,
+    "recepe_name": "Fried Rice",
+    "coocking_method": "Heat oil in a wok or frying pan over high heat.  Add beaten eggs and stir-fry until scrambled. Add diced carrots and peas and stir-fry until tender.",
+    "rating": 4.5,
+    "favourite": null,
+    "recipe_img": "https://successrice.com/wp-content/uploads/2019/03/Quick-and-Easy-Fried-Rice-1536x864.jpg.webp",
+    "ingredients": ["Cooked Rice", "Eggs", "Carrots", "Peas", "Soy Sauce"]
+  },
+  {
+    "id": "dhfkjhsfdgjk",
+    "recipe_id": 3,
+    "recepe_name": "Dumplings (Jiaozi)",
+    "coocking_method": "Mix ground pork, finely chopped Napa cabbage, minced garlic and ginger, soy sauce, and a little bit of water to make a filling.",
+    "rating": 4,
+    "favourite": 300,
+    "recipe_img": "https://kirbiecravings.com/wp-content/uploads/2020/01/jiaozi-dumplings-12.jpg",
+
+    "ingredients": [
+      "Ground Pork",
+      "Napa Cabbage",
+      "Garlic",
+      "Ginger",
+      "Soy Sauce"
+    ]
+  },
+  {
+    "id": "dhfkjhddgjdk",
+    "recipe_id": 3,
+    "recepe_name": "Ma Po Tofu",
+    "coocking_method": "Heat oil in a wok or frying pan over medium-high heat and add ground pork. Stir-fry until cooked through.",
+    "rating": 4.5,
+    "favourite": null,
+    "recipe_img": "https://amandascookin.com/wp-content/uploads/2022/01/Kung-Pao-Chicken-RC-SQ-768x768.jpg",
+    "ingredients": [
+      "Soft Tofu",
+      "Ground Pork",
+      "Sichuan Peppercorns",
+      "Chili Bean Paste",
+      "Garlic"
+    ]
+  },
+  {
+    "id": "dhfkjhsdfssdgjdk",
+    "recipe_id": 4,
+    "recepe_name": "Fried Rice",
+    "coocking_method": "Heat oil in a wok or frying pan over high heat.  Add beaten eggs and stir-fry until scrambled. Add diced carrots and peas and stir-fry until tender.",
+    "rating": 4.5,
+    "favourite": null,
+    "recipe_img": "https://successrice.com/wp-content/uploads/2019/03/Quick-and-Easy-Fried-Rice-1536x864.jpg.webp",
+    "ingredients": ["Cooked Rice", "Eggs", "Carrots", "Peas", "Soy Sauce"]
+  },
+  {
+    "id": "dhfkj4dgjk",
+    "recipe_id": 4,
+    "recepe_name": "Kung Pao Chicken",
+    "coocking_method": "Stir-Frying - a high-heat cooking method where ingredients are quickly cooked in a hot wok with oil while being stirred constantly.",
+    "rating": 5,
+    "favourite": 300,
+    "recipe_img": "https://amandascookin.com/wp-content/uploads/2022/01/Kung-Pao-Chicken-RC-SQ-768x768.jpg",
+    "ingredients": [
+      "Boneless, Skinless Chicken Breast",
+      "Roasted Peanuts",
+      "Dried Red Chili Peppers",
+      "Soy Sauce",
+      "Cornstarch"
+    ]
+  },
+  {
+    "id": "dhfkjsh4sfdgjk",
+    "recipe_id": 4,
+    "recepe_name": "Dumplings (Jiaozi)",
+    "coocking_method": "Mix ground pork, finely chopped Napa cabbage, minced garlic and ginger, soy sauce, and a little bit of water to make a filling.",
+    "rating": 4,
+    "favourite": 300,
+    "recipe_img": "https://kirbiecravings.com/wp-content/uploads/2020/01/jiaozi-dumplings-12.jpg",
+
+    "ingredients": [
+      "Ground Pork",
+      "Napa Cabbage",
+      "Garlic",
+      "Ginger",
+      "Soy Sauce"
+    ]
+  },
+  {
+    "id": "dhfkjhdd4gjdk",
+    "recipe_id": 4,
+    "recepe_name": "Ma Po Tofu",
+    "coocking_method": "Heat oil in a wok or frying pan over medium-high heat and add ground pork. Stir-fry until cooked through.",
+    "rating": 4.5,
+    "favourite": null,
+    "recipe_img": "https://amandascookin.com/wp-content/uploads/2022/01/Kung-Pao-Chicken-RC-SQ-768x768.jpg",
+    "ingredients": [
+      "Soft Tofu",
+      "Ground Pork",
+      "Sichuan Peppercorns",
+      "Chili Bean Paste",
+      "Garlic"
+    ]
+  },
+  {
+    "id": "dhfkjhsdfssdgjdk",
+    "recipe_id": 4,
+    "recepe_name": "Fried Rice",
+    "coocking_method": "Heat oil in a wok or frying pan over high heat.  Add beaten eggs and stir-fry until scrambled. Add diced carrots and peas and stir-fry until tender.",
+    "rating": 4.5,
+    "favourite": null,
+    "recipe_img": "https://successrice.com/wp-content/uploads/2019/03/Quick-and-Easy-Fried-Rice-1536x864.jpg.webp",
+    "ingredients": ["Cooked Rice", "Eggs", "Carrots", "Peas", "Soy Sauce"]
+  },
+  {
+    "id": "dhfk5j4dgjk",
+    "recipe_id": 5,
+    "recepe_name": "Kung Pao Chicken",
+    "coocking_method": "Stir-Frying - a high-heat cooking method where ingredients are quickly cooked in a hot wok with oil while being stirred constantly.",
+    "rating": 5,
+    "favourite": 300,
+    "recipe_img": "https://amandascookin.com/wp-content/uploads/2022/01/Kung-Pao-Chicken-RC-SQ-768x768.jpg",
+    "ingredients": [
+      "Boneless, Skinless Chicken Breast",
+      "Roasted Peanuts",
+      "Dried Red Chili Peppers",
+      "Soy Sauce",
+      "Cornstarch"
+    ]
+  },
+  {
+    "id": "dhfkjs5h4sfdgjk",
+    "recipe_id": 5,
+    "recepe_name": "Dumplings (Jiaozi)",
+    "coocking_method": "Mix ground pork, finely chopped Napa cabbage, minced garlic and ginger, soy sauce, and a little bit of water to make a filling.",
+    "rating": 4,
+    "favourite": 300,
+    "recipe_img": "https://kirbiecravings.com/wp-content/uploads/2020/01/jiaozi-dumplings-12.jpg",
+
+    "ingredients": [
+      "Ground Pork",
+      "Napa Cabbage",
+      "Garlic",
+      "Ginger",
+      "Soy Sauce"
+    ]
+  },
+  {
+    "id": "dhfkjhd5d4gjdk",
+    "recipe_id": 5,
+    "recepe_name": "Ma Po Tofu",
+    "coocking_method": "Heat oil in a wok or frying pan over medium-high heat and add ground pork. Stir-fry until cooked through.",
+    "rating": 4.5,
+    "favourite": null,
+    "recipe_img": "https://amandascookin.com/wp-content/uploads/2022/01/Kung-Pao-Chicken-RC-SQ-768x768.jpg",
+    "ingredients": [
+      "Soft Tofu",
+      "Ground Pork",
+      "Sichuan Peppercorns",
+      "Chili Bean Paste",
+      "Garlic"
+    ]
+  },
+  {
+    "id": "dhfkjs6hsfdgjk",
+    "recipe_id": 6,
+    "recepe_name": "Dumplings (Jiaozi)",
+    "coocking_method": "Mix ground pork, finely chopped Napa cabbage, minced garlic and ginger, soy sauce, and a little bit of water to make a filling.",
+    "rating": 4.5,
+    "favourite": 300,
+    "recipe_img": "https://kirbiecravings.com/wp-content/uploads/2020/01/jiaozi-dumplings-12.jpg",
+
+    "ingredients": [
+      "Ground Pork",
+      "Napa Cabbage",
+      "Garlic",
+      "Ginger",
+      "Soy Sauce"
+    ]
+  },
+  {
+    "id": "dhfkjhd6dgjdk",
+    "recipe_id": 6,
+    "recepe_name": "Ma Po Tofu",
+    "coocking_method": "Heat oil in a wok or frying pan over medium-high heat and add ground pork. Stir-fry until cooked through.",
+    "rating": 4.5,
+    "favourite": null,
+    "recipe_img": "https://amandascookin.com/wp-content/uploads/2022/01/Kung-Pao-Chicken-RC-SQ-768x768.jpg",
+    "ingredients": [
+      "Soft Tofu",
+      "Ground Pork",
+      "Sichuan Peppercorns",
+      "Chili Bean Paste",
+      "Garlic"
+    ]
+  },
+  {
+    "id": "dhfkjhs6ddgjdk",
+    "recipe_id": 6,
+    "recepe_name": "Fried Rice",
+    "coocking_method": "Heat oil in a wok or frying pan over high heat.  Add beaten eggs and stir-fry until scrambled. Add diced carrots and peas and stir-fry until tender.",
+    "rating": 4.5,
+    "favourite": null,
+    "recipe_img": "https://successrice.com/wp-content/uploads/2019/03/Quick-and-Easy-Fried-Rice-1536x864.jpg.webp",
+    "ingredients": ["Cooked Rice", "Eggs", "Carrots", "Peas", "Soy Sauce"]
+  },
+  {
+    "id": "dhfkjs5h4sfdgjk",
+    "recipe_id": 5,
+    "recepe_name": "Dumplings (Jiaozi)",
+    "coocking_method": "Mix ground pork, finely chopped Napa cabbage, minced garlic and ginger, soy sauce, and a little bit of water to make a filling.",
+    "rating": 4,
+    "favourite": 300,
+    "recipe_img": "https://kirbiecravings.com/wp-content/uploads/2020/01/jiaozi-dumplings-12.jpg",
+
+    "ingredients": [
+      "Ground Pork",
+      "Napa Cabbage",
+      "Garlic",
+      "Ginger",
+      "Soy Sauce"
+    ]
+  },
+  {
+    "id": "dhfkjs5h24sfdgjk",
+    "recipe_id": 2,
+    "recepe_name": "Dumplings (Jiaozi)",
+    "coocking_method": "Mix ground pork, finely chopped Napa cabbage, minced garlic and ginger, soy sauce, and a little bit of water to make a filling.",
+    "rating": 4,
+    "favourite": 300,
+    "recipe_img": "https://kirbiecravings.com/wp-content/uploads/2020/01/jiaozi-dumplings-12.jpg",
+
+    "ingredients": [
+      "Ground Pork",
+      "Napa Cabbage",
+      "Garlic",
+      "Ginger",
+      "Soy Sauce"
+    ]
+  },
+  {
+    "id": "dhfkjs35h4sfdgjk",
+    "recipe_id": 3,
+    "recepe_name": "Dumplings (Jiaozi)",
+    "coocking_method": "Mix ground pork, finely chopped Napa cabbage, minced garlic and ginger, soy sauce, and a little bit of water to make a filling.",
+    "rating": 4,
+    "favourite": 300,
+    "recipe_img": "https://kirbiecravings.com/wp-content/uploads/2020/01/jiaozi-dumplings-12.jpg",
+
+    "ingredients": [
+      "Ground Pork",
+      "Napa Cabbage",
+      "Garlic",
+      "Ginger",
+      "Soy Sauce"
+    ]
+  },
+  {
+    "id": "dhfkjs235h4sfdgjk",
+    "recipe_id": 4,
+    "recepe_name": "Dumplings (Jiaozi)",
+    "coocking_method": "Mix ground pork, finely chopped Napa cabbage, minced garlic and ginger, soy sauce, and a little bit of water to make a filling.",
+    "rating": 4,
+    "favourite": 300,
+    "recipe_img": "https://kirbiecravings.com/wp-content/uploads/2020/01/jiaozi-dumplings-12.jpg",
+
+    "ingredients": [
+      "Ground Pork",
+      "Napa Cabbage",
+      "Garlic",
+      "Ginger",
+      "Soy Sauce"
+    ]
+  },
+  {
+    "id": "dhfkjs51h4sfdgjk",
+    "recipe_id": 1,
+    "recepe_name": "Dumplings (Jiaozi)",
+    "coocking_method": "Mix ground pork, finely chopped Napa cabbage, minced garlic and ginger, soy sauce, and a little bit of water to make a filling.",
+    "rating": 4,
+    "favourite": 300,
+    "recipe_img": "https://kirbiecravings.com/wp-content/uploads/2020/01/jiaozi-dumplings-12.jpg",
+
+    "ingredients": [
+      "Ground Pork",
+      "Napa Cabbage",
+      "Garlic",
+      "Ginger",
+      "Soy Sauce"
+    ]
+  },
+  {
+    "id": "dhfkj3s5h4sfdgjk",
+    "recipe_id": 6,
+    "recepe_name": "Dumplings (Jiaozi)",
+    "coocking_method": "Mix ground pork, finely chopped Napa cabbage, minced garlic and ginger, soy sauce, and a little bit of water to make a filling.",
+    "rating": 4,
+    "favourite": 300,
+    "recipe_img": "https://kirbiecravings.com/wp-content/uploads/2020/01/jiaozi-dumplings-12.jpg",
+
+    "ingredients": [
+      "Ground Pork",
+      "Napa Cabbage",
+      "Garlic",
+      "Ginger",
+      "Soy Sauce"
     ]
   }
 ]
